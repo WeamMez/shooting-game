@@ -1,7 +1,7 @@
 # shooting-game
 An automatic shooting game developed in C++ as an assignment for my B.Sc.
 
-# Copmilation
+# Compilation
 To compile the project in Linux:
 1. Open the console and navigate to the project's directory
 2. Type "g++ ./*.cpp -lGL -lGLU -lglut"
