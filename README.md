@@ -1,5 +1,6 @@
 # shooting-game
 An automatic shooting game developed in C++ as an assignment for my B.Sc.
+
 The yellow group is group 1, the red group is group 2.
 The squares are the players and the light diamonds are the carriers, which carries medicine and weapons to the players in need in their group.
 
